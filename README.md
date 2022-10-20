@@ -52,7 +52,7 @@ Para que bomberman pueda moverse por el tablero, utlizaremos los siguientes coma
 ## Debugg
 
 *  Vidas : En ocasiones al ganar la partida con 2 o menos vidas y reiniciar una nueva partida, los iconos de los corazones mantienen el estado de la partida anterior.
-* Musica de inicio: se inicia de manera aleatoria.
+* Música de inicio: se inicia de manera aleatoria.
 * Bomba: Desactivar más de una bomba a la vez, siempre se elimina la última en ejecutarse. 
 * A la hora de poner una bomba en el que el enemigo se encuentre entre el límite inferior y la propia bomba, el enemigo se posiciona en el límite del tablero.
 
