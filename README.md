@@ -16,9 +16,9 @@ Se encontrará tendrá que romper todos aquellos obstáculos en los que se encon
 
 # Participantes del desarrollo de juego
 
-# Aimara Marrero      -  GitHub (https://github.com/aimara-marrero)
-# Iratze  Eizaguirre  -  GitHub (https://github.com/IraEiza)
-# Joseph Vento        -  GitHub (https://github.com/itsJosephV)
+* Aimara Marrero      -  GitHub (https://github.com/aimara-marrero)
+* Iratze  Eizaguirre  -  GitHub (https://github.com/IraEiza)
+* Joseph Vento        -  GitHub (https://github.com/itsJosephV)
 
 
 
@@ -55,11 +55,10 @@ Para que bomberman pueda moverse por el tablero, utlizaremos los siguientes coma
 * Musica de inicio: se inicia de manera aleatoria.
 * Bomba: Desactivar más de una bomba a la vez, siempre se elimina la última en ejecutarse. 
 * A la hora de poner una bomba en el que el enemigo se encuentre entre el límite inferior y la propia bomba, el enemigo se posiciona en el límite del tablero.
-* 
+
 
 
 ## Enlace al juego
 
-* 
-* 
-* 
+* https://aimara-marrero.github.io/bomberman/
+
