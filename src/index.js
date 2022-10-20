@@ -4,6 +4,8 @@ let winSound = new Audio('assets/music/victory.mp3')
 let gameOverSound = new Audio('assets/music/lose.mp3')
 
 sound.volume = 0.1;
+gameOverSound.volumen = 0.1;
+winSound.volumen = 0.1;
 
 let goal = new Goal();
 let player = new Player();
