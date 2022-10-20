@@ -41,11 +41,11 @@ Se encontrará tendrá que romper todos aquellos obstáculos en los que se encon
 
 Para que bomberman pueda moverse por el tablero, utlizaremos los siguientes comandos:
 
-W --> Arriba
-A --> Izquierda
-S --> Abajo
-D --> Derecha
-Space --> Activar bomba
+* W --> Arriba
+* A --> Izquierda
+* S --> Abajo
+* D --> Derecha
+* Space --> Activar bomba
 
 
 
